@@ -33,6 +33,10 @@ C:\Users\Username\anaconda3\Scripts
 (bash)
 
     conda list
+
+    pip check
+
+    pip show 
     
 
 # reference
@@ -40,3 +44,9 @@ C:\Users\Username\anaconda3\Scripts
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 https://stackoverflow.com/questions/49127834/removing-conda-environment
+
+https://blog.csdn.net/weixin_38638223/article/details/119714644
+
+    library = module
+
+    A package is a folder that contains multiple Python modules
